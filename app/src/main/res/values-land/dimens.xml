@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_upper_margin">8dp</dimen>
+    <dimen name="card_view_height">128dp</dimen>
+    <dimen name="default_padding">4dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="preview_image_width_fixed">100dp</dimen>
+    <dimen name="preview_image_height_fixed">0dp</dimen>
+    <dimen name="image_fixed_width">222dp</dimen>
+    <dimen name="image_fixed_height">247dp</dimen>
+    <dimen name="preview_content_fixed_width">110dp</dimen>
+    <dimen name="content_fixed_width">370dp</dimen>
+</resources>
